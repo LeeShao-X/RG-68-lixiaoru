@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="supermarket:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4233fa35-4499-4560-9c3f-d28ff58da2f1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="supermarket" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Class" />
+        <option value="CSS File" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VH5MbvQUWpVJFljMkddsw6neAc" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>Java EE</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CssInvalidImport</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546566840081" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebContent/WEB-INF/lib" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.13964844" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\supermarket\WebContent\libk" />
+      <recent name="C:\Users\Lenovo\Desktop\supermarket\WebContent\employ" />
+      <recent name="C:\Users\Lenovo\Desktop\supermarket\WebContent\managers" />
+      <recent name="C:\Users\Lenovo\Desktop\supermarket\WebContent\js" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cashierPage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\supermarket\WebContent\WEB-INF\lib" />
+      <recent name="G:\supermarket\lib" />
+      <recent name="C:\Users\Lenovo\Desktop\supermarket\WebContent\images" />
+      <recent name="C:\Users\Lenovo\Desktop\supermarket\WebContent" />
+      <recent name="C:\Users\Lenovo\Desktop\supermarket\WebContent\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.login.html">
+    <configuration name="add.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/managers/add.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="kucun.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/managers/kucun.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/supermarket/classes/artifacts/supermarket_war_exploded/login.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="login.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:8080/login.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="u_mainframe.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/employ/u_mainframe.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="u_sall3.jsp" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8080/employ/u_sall3.jsp">
+      <method v="2" />
+    </configuration>
+    <configuration name="supermarket" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.96" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="supermarket:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_supermarket_2" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62299" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="supermarket:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.login.html" />
+      <item itemvalue="JavaScript Debug.login.html (1)" />
+      <item itemvalue="JavaScript Debug.u_sall3.jsp" />
+      <item itemvalue="JavaScript Debug.kucun.jsp" />
+      <item itemvalue="JavaScript Debug.u_mainframe.jsp" />
+      <item itemvalue="JavaScript Debug.add.jsp" />
+      <item itemvalue="Tomcat Server.supermarket" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.add.jsp" />
+        <item itemvalue="JavaScript Debug.u_mainframe.jsp" />
+        <item itemvalue="JavaScript Debug.kucun.jsp" />
+        <item itemvalue="JavaScript Debug.u_sall3.jsp" />
+        <item itemvalue="JavaScript Debug.login.html (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4233fa35-4499-4560-9c3f-d28ff58da2f1" name="Default Changelist" comment="" />
+      <created>1544965672601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544965672601</updated>
+      <workItem from="1544965681031" duration="5319000" />
+      <workItem from="1545014977089" duration="6820000" />
+      <workItem from="1545035145197" duration="2917000" />
+      <workItem from="1545043365466" duration="1621000" />
+      <workItem from="1545047907814" duration="1831000" />
+      <workItem from="1545217251678" duration="7523000" />
+      <workItem from="1545233917476" duration="589000" />
+      <workItem from="1545291497324" duration="934000" />
+      <workItem from="1545301864507" duration="679000" />
+      <workItem from="1545304526667" duration="3815000" />
+      <workItem from="1545309339058" duration="10135000" />
+      <workItem from="1545369347617" duration="6674000" />
+      <workItem from="1545392002608" duration="9743000" />
+      <workItem from="1545449536774" duration="3270000" />
+      <workItem from="1545472545634" duration="18352000" />
+      <workItem from="1545555177608" duration="4110000" />
+      <workItem from="1545559570161" duration="8540000" />
+      <workItem from="1545616044976" duration="5965000" />
+      <workItem from="1545635405692" duration="23809000" />
+      <workItem from="1545721297215" duration="24595000" />
+      <workItem from="1545796677356" duration="822000" />
+      <workItem from="1545828260496" duration="21000" />
+      <workItem from="1545893047303" duration="10824000" />
+      <workItem from="1545916203603" duration="8860000" />
+      <workItem from="1545969603039" duration="8318000" />
+      <workItem from="1545988984930" duration="19087000" />
+      <workItem from="1546055613977" duration="2048000" />
+      <workItem from="1546075174586" duration="9159000" />
+      <workItem from="1546095545164" duration="4262000" />
+      <workItem from="1546103846683" duration="635000" />
+      <workItem from="1546155883607" duration="13462000" />
+      <workItem from="1546514693350" duration="5588000" />
+      <workItem from="1546563219786" duration="3725000" />
+      <workItem from="1551014390722" duration="609000" />
+      <workItem from="1551054789321" duration="1246000" />
+      <workItem from="1560387008652" duration="2931000" />
+      <workItem from="1576897134182" duration="12067000" />
+      <workItem from="1576918627061" duration="206000" />
+      <workItem from="1576920738020" duration="72000" />
+      <workItem from="1576924996821" duration="159000" />
+      <workItem from="1576925177484" duration="1001000" />
+      <workItem from="1576995654750" duration="10590000" />
+      <workItem from="1577011695504" duration="9378000" />
+      <workItem from="1577021128650" duration="2155000" />
+      <workItem from="1577081706788" duration="9238000" />
+      <workItem from="1577254825256" duration="3737000" />
+      <workItem from="1577342600040" duration="929000" />
+      <workItem from="1577406858441" duration="4867000" />
+      <workItem from="1577433870156" duration="281000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/WebContent/managers/sall_product.jsp</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
